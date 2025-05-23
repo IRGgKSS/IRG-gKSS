@@ -3,7 +3,6 @@
 
 library(igraph)
 library(HelpersMG)
-library(igraph)
 library(graphkernels)
 library(Matrix)
 
